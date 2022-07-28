@@ -1,5 +1,5 @@
 {
-  "Version": "4.8.0",
+  "Version": "4.9.0",
   "ReleaseNotes": "VIVO PEGANDO TODOS ESTADOS ",
   "UrlUpdate": "https://bitbin.it/upPdpFv3/raw/",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=13331",
