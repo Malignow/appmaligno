@@ -1,7 +1,7 @@
 {
   "Version": "4.9.0",
   "ReleaseNotes": "VIVO PEGANDO TODOS ESTADOS ",
-  "UrlUpdate": "https://bitbin.it/upPdpFv3/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/Malignow/appmaligno/main/app",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=13331",
   "EmailFeedback": "https://bit.ly/servicoIPTV",
   "UrlContato": "http://bit.ly/renovacaodeacesso30",
