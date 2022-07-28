@@ -1,5 +1,5 @@
 {
-  "Version": "4.9.1",
+  "Version": "5.0.0",
   "ReleaseNotes": "VIVO PEGANDO TODOS ESTADOS ",
   "UrlUpdate": "https://raw.githubusercontent.com/Malignow/appmaligno/main/app",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=13331",
